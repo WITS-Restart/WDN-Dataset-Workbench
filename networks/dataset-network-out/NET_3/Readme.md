@@ -52,10 +52,10 @@ and a file with the following fields to take account the link
 
 ## Performance
 
-![Alt text](C:\DATA\work\WDN\repository\WDN-Dataset-Workbench\networks\dataset-network-out\NET_3\fig\topology-with-pressure-mean.png "WDN TOPOLOGY pressure")
+![Alt text](fig/topology-with-pressure-mean.png "WDN TOPOLOGY pressure")
 
-![Alt text](C:\DATA\work\WDN\repository\WDN-Dataset-Workbench\networks\dataset-network-out\NET_3\fig\topology-with-demand-mean.png "WDN TOPOLOGY demand")
+![Alt text](fig/topology-with-demand-mean.png "WDN TOPOLOGY demand")
 
-![Alt text](C:\DATA\work\WDN\repository\WDN-Dataset-Workbench\networks\dataset-network-out\NET_3\fig\demand-comparison-1.png "WDN node comparison 1")
+![Alt text](fig/WDN-Dataset-Workbench\networks\dataset-network-out\NET_3\fig\demand-comparison-1.png "WDN node comparison 1")
 
-![Alt text](C:\DATA\work\WDN\repository\WDN-Dataset-Workbench\networks\dataset-network-out\NET_3\fig\demand-comparison-2.png "WDN node comparison 2")
+![Alt text](fig/demand-comparison-2.png "WDN node comparison 2")
