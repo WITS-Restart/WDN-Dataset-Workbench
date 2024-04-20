@@ -1,5 +1,6 @@
-var BalanceContract = artifacts.require("./BalanceContract.sol");
+var DifferentialContract = artifacts.require("./DifferentialContract.sol");
 
-module.exports = function (deployer) {
-    deployer.deploy(BalanceContract, 30);
+module.exports = async function (deployer, network, accounts) {
+    console.log(accounts);
+    deployer.deploy(DifferentialContract, 30);
 };
